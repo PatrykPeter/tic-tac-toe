@@ -164,7 +164,7 @@ int main() {
         std::cout << "2. Show results\n";
         std::cout << "3. Show player stats\n";
         std::cout << "4. Exit\n";
-        std::cout << "Enter your choice: ";
+        std::cout << "Choose option: ";
         std::cin >> choice;
 
         switch (choice) {
